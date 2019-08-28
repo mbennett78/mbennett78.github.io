@@ -1,11 +1,11 @@
 # Site settings
-author: modern-helper-8600
-title: 
+author: Melissa Bennett
+title: Motivating Others Motivated Me
 header-img: img/home-bg.png
 email: bennett.melissa1@gmail.com
-copyright_name: modern-helper-8600
+copyright_name: Melissa Bennett
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Falling in Love with Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: MelBennett14
 github_username:  mbennett78
